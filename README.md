@@ -42,6 +42,6 @@ After the scripts are copied and updated if needed, copy the streamrip.conf to t
 ## Usage
 After NGINX is started, you can set your live streaming program to stream to `rtmp://{ip}/live`, with your stream key set to the secret value you included in `config.sh`. `{ip}` should be the IP of the server NGINX is being hosted on.
 
-Once you start streaming, your stream should being on whatever streaming service you are on.
+Once you start streaming, your stream should begin on the streaming service.
 
 If you go offline during the stream, the video you specific in `config.sh` will begin to loop until you go back online or NGINX is shut down.
