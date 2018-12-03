@@ -20,3 +20,5 @@ wd=/tmp/streamrip
 pfi=$wd/streamrip
 offpidfi=$wd/offline_pid
 onpidfi=$wd/online_pid
+offlo=$wd/offline_lock
+onlo=$wd/online_lock
